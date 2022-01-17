@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <name>Word Document</name>
+  <type>word</type>
+  <title>Blank Project</title>
+  <content>
+    <toc>
+      <path>../../toc/Default.toc</path>
+      <name>Default</name>
+    </toc>
+    <masterpage></masterpage>
+    <brs type="array"></brs>
+  </content>
+  <word>
+    <stylemapping>{&quot;selectorMap&quot;:{},&quot;discardSelectors&quot;:[]}</stylemapping>
+    <insertTopicBreak type="boolean">false</insertTopicBreak>
+  </word>
+  <gdprCompliance type="boolean">true</gdprCompliance>
+  <starterPage>Default.docx</starterPage>
+  <patchHomepage type="boolean">true</patchHomepage>
+  <outputPath>C:/Users/daggarwa/Documents/My RoboHelp Projects/outputs/w2erwqe/Word Document</outputPath>
+</preset>
